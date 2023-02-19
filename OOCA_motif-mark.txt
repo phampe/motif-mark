@@ -1,0 +1,17 @@
+These are notes for motif mark assignment
+
+Problem:
+Create a python script to see the motifs in our nucleotide strand
+
+What the Code needs to do:
+take in a fasta file and motif file
+give us an image that will show how many motifs we havea and where
+
+
+Possible Classes(may be changed):
+motifs
+Nucleotide sequence(from fasta file)
+Introns ? 
+Exons ?
+
+
